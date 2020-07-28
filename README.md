@@ -1,3 +1,7 @@
+This project from video lesson -> https://youtu.be/kK_Wqx3RnHk
+Learn useReducer
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
